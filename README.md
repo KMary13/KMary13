@@ -29,7 +29,8 @@ A personal resume website built to introduce myself and showcase my skills.
 * **Tech Stack:**
   * HTML5: Foundation structure.
   * CSS3: Styling, custom fonts, and responsive layout.
-    -------
+
+---    
  
   ### 2. 🏔️ [MNTN - Hiking Guide Landing Page](https://rococo-praline-32e4bc.netlify.app/)
 **About the project:**
@@ -39,7 +40,8 @@ An atmospheric landing page for hiking enthusiasts. This project focuses on visu
   * HTML5: Semantic content structure.
   * CSS3 (Flexbox): Advanced layout techniques.
   * **Design:** [View in Figma](https://www.figma.com/design/PqGQAAbZCjnDJZKo8NVZEg/Lending--Copy-?t=38aYXaN6nm2ZwwB0-0)
-    --------
+    
+---
  
 ### 3. 🦆 [BanderoGus - Interactive Game](https://delightful-entremet-68184b.netlify.app/)
 **About the project:**
