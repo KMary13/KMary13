@@ -42,6 +42,7 @@ A fully functional online store for travel equipment. This project demonstrates 
 * **Tech Stack:**
   * **JavaScript (ES6+):** Core application logic, DOM manipulation, and state management.
   * **HTML5 & CSS3:** Responsive grid layout and UI styling.
+  * **Design:** [View in Figma](https://www.figma.com/design/7d6XZtI8p71UKcRQ6qttF3/Best-Shop--Fundamentals---Copy-?node-id=0-1&p=f&t=XoGSCv94Xs2W4Nv9-0))
 
 ---
  
