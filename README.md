@@ -30,9 +30,22 @@ A personal resume website built to introduce myself and showcase my skills.
   * HTML5: Foundation structure.
   * CSS3: Styling, custom fonts, and responsive layout.
 
----    
+---  
+
+### 2. 🧳 [TravelGear - E-commerce Web App](https://best-shop-suitcases.netlify.app)
+**About the project:**
+A fully functional online store for travel equipment. This project demonstrates my ability to handle application state and complex user interactions using vanilla JavaScript.
+* **Features:**
+  * **Shopping Cart System:** Users can add/remove items and adjust quantities.
+  * **Data Persistence:** Cart data is saved in `LocalStorage`, so users don't lose items on refresh.
+  * **Checkout Logic:** Dynamic calculation of totals and order simulation.
+* **Tech Stack:**
+  * **JavaScript (ES6+):** Core application logic, DOM manipulation, and state management.
+  * **HTML5 & CSS3:** Responsive grid layout and UI styling.
+
+---
  
-  ### 2. 🏔️ [MNTN - Hiking Guide Landing Page](https://rococo-praline-32e4bc.netlify.app/)
+  ### 3. 🏔️ [MNTN - Hiking Guide Landing Page](https://rococo-praline-32e4bc.netlify.app/)
 **About the project:**
 An atmospheric landing page for hiking enthusiasts. This project focuses on visual hierarchy and typography.
 * **Features:** Parallax scroll effects, clean modern UI, fully responsive.
@@ -43,7 +56,7 @@ An atmospheric landing page for hiking enthusiasts. This project focuses on visu
     
 ---
  
-### 3. 🦆 [BanderoGus - Interactive Game](https://delightful-entremet-68184b.netlify.app/)
+### 4. 🦆 [BanderoGus - Interactive Game](https://delightful-entremet-68184b.netlify.app/)
 **About the project:**
 My first interactive web application coded during a test-drive marathon.
 * **Features:** JavaScript-based animations, sound effects, and DOM manipulation.
@@ -54,7 +67,7 @@ My first interactive web application coded during a test-drive marathon.
 
 ---
 
-### 4. 💼 [WebStudio - Business Website](https://lustrous-halva-080697.netlify.app/)
+### 5. 💼 [WebStudio - Business Website](https://lustrous-halva-080697.netlify.app/)
 **About the project:**
 A multi-page corporate website built as a part of a coding marathon.
 * **Features:** Modal windows, mobile menu, pixel-perfect layout.
