@@ -22,7 +22,7 @@ Here you can find my recent projects with links to live demos and code:
 
 ## 🚀 My Projects
 
-### 1. 📄 [My Digital Resume / CV Website](https://thriving-maamoul-24ae18.netlify.app/)
+### 1. 📄 [My Digital Resume / CV Website](https://precious-eclair-276688.netlify.app/)
 **About the project:**
 A personal resume website built to introduce myself and showcase my skills.
 * **Features:** Fully responsive design, semantic HTML structure.
