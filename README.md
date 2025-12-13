@@ -41,7 +41,7 @@ An atmospheric landing page for hiking enthusiasts. This project focuses on visu
   * **Design:** [View in Figma](https://www.figma.com/design/PqGQAAbZCjnDJZKo8NVZEg/Lending--Copy-?t=38aYXaN6nm2ZwwB0-0)
     --------
  
-    ### 3. 🦆 [BanderoGus - Interactive Game](https://delightful-entremet-68184b.netlify.app/)
+### 3. 🦆 [BanderoGus - Interactive Game](https://delightful-entremet-68184b.netlify.app/)
 **About the project:**
 My first interactive web application coded during a test-drive marathon.
 * **Features:** JavaScript-based animations, sound effects, and DOM manipulation.
@@ -49,7 +49,9 @@ My first interactive web application coded during a test-drive marathon.
   * HTML5 & CSS3: Layout and styling.
   * JavaScript: Game logic, event listeners, and interactivity.
   * **Design:** [View in Figma](https://www.figma.com/design/X6gIWRTpuhrfYoOvMJmhxz/Content--Copy-?t=38aYXaN6nm2ZwwB0-0)
-    ------
+
+---
+
 ### 4. 💼 [WebStudio - Business Website](https://lustrous-halva-080697.netlify.app/)
 **About the project:**
 A multi-page corporate website built as a part of a coding marathon.
@@ -58,6 +60,7 @@ A multi-page corporate website built as a part of a coding marathon.
   * HTML5: Semantic structure.
   * CSS3: Styling and layout using Flexbox/Grid.
   * **Design:** [View in Figma](https://www.figma.com/design/YTcxveOwVgTPP0HYnjAwuv/Web-Studio--Version-5.0---Demo-HTML-CSS---Copy-?node-id=296708-626&p=f&t=38aYXaN6nm2ZwwB0-0)
+
 ---
 
 ## 📊 GitHub Stats
