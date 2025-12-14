@@ -90,7 +90,8 @@ A multi-page corporate website built as a part of a coding marathon.
 ### 📫 How to reach me:
 * **Telegram:** [K_Mary13](https://t.me/K_Mary13)
 * **Email:** kolmary1818@gmail.com
-* **LinkedIn:** [Mariana Kolinska](https://linkedin.com/in/KMary13)
+* **LinkedIn:** [Mariana Kolinska](https://linkedin.com/in/
+mariana-kolinska)
 
 
 
