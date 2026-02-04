@@ -22,7 +22,20 @@ Here you can find my recent projects with links to live demos and code:
 
 ## 🚀 My Projects
 
-### 1. 📄 [My Digital Resume / CV Website](https://precious-eclair-276688.netlify.app/)
+### 1.⚡ Electric Task Master 🔗 [Live Demo](https://melodic-sprinkles-0c27c5.netlify.app/) 
+
+About the project: A fully functional To-Do list app with a unique "Electric" UI theme. This project goes beyond standard CRUD by implementing complex CSS rendering effects and specific mobile performance optimizations.
+Features:
+- **Advanced UI/UX:** Custom SVG filters (feTurbulence) for "electric" borders and neon glow effects.
+- **Mobile Optimization:** Implemented Haptic API (vibration) for Android and specific GPU fixes to maintain 60fps on mobile.
+- **Persistent Data:** Uses LocalStorage to save data between sessions.
+Tech Stack:
+- **JavaScript (ES6+):** Event Delegation, DOM Manipulation, Haptic API.
+- **CSS3:** Keyframe Animations, SVG Filters, Will-change property.
+- **HTML5:** Semantic structure.
+
+
+### 2. 📄 [My Digital Resume / CV Website] 🔗 [Live Demo](https://precious-eclair-276688.netlify.app/)
 **About the project:**
 A personal resume website built to introduce myself and showcase my skills.
 * **Features:** Fully responsive design, semantic HTML structure.
@@ -32,7 +45,7 @@ A personal resume website built to introduce myself and showcase my skills.
 
 ---  
 
-### 2. 🧳 [TravelGear - E-commerce Web App](https://best-shop-suitcases.netlify.app)
+### 3. 🧳 [TravelGear - E-commerce Web App] 🔗 [Live Demo](https://best-shop-suitcases.netlify.app)
 **About the project:**
 A fully functional online store for travel equipment. This project demonstrates my ability to handle application state and complex user interactions using vanilla JavaScript.
 * **Features:**
@@ -46,7 +59,7 @@ A fully functional online store for travel equipment. This project demonstrates 
 
 ---
  
-  ### 3. 🏔️ [MNTN - Hiking Guide Landing Page](https://rococo-praline-32e4bc.netlify.app/)
+  ### 4. 🏔️ [MNTN - Hiking Guide Landing Page] 🔗 [Live Demo](https://rococo-praline-32e4bc.netlify.app/)
 **About the project:**
 An atmospheric landing page for hiking enthusiasts. This project focuses on visual hierarchy and typography.
 * **Features:** Parallax scroll effects, clean modern UI, fully responsive.
@@ -57,7 +70,7 @@ An atmospheric landing page for hiking enthusiasts. This project focuses on visu
     
 ---
  
-### 4. 🦆 [BanderoGus - Interactive Game](https://delightful-entremet-68184b.netlify.app/)
+### 5. 🦆 [BanderoGus - Interactive Game] 🔗 [Live Demo](https://delightful-entremet-68184b.netlify.app/)
 **About the project:**
 My first interactive web application coded during a test-drive marathon.
 * **Features:** JavaScript-based animations, sound effects, and DOM manipulation.
@@ -68,7 +81,7 @@ My first interactive web application coded during a test-drive marathon.
 
 ---
 
-### 5. 💼 [WebStudio - Business Website](https://lustrous-halva-080697.netlify.app/)
+### 6. 💼 [WebStudio - Business Website] 🔗 [Live Demo](https://lustrous-halva-080697.netlify.app/)
 **About the project:**
 A multi-page corporate website built as a part of a coding marathon.
 * **Features:** Modal windows, mobile menu, pixel-perfect layout.
