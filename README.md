@@ -22,7 +22,7 @@ Here you can find my recent projects with links to live demos and code:
 
 ## 🚀 My Projects
 
-### 1.⚡ Electric Task Master 🔗 [Live Demo](https://melodic-sprinkles-0c27c5.netlify.app/) 
+### 1.⚡ Electric Task Master 🔗 [Live Demo](https://electric-task-master-game-mode.netlify.app//) 
 
 About the project: A fully functional To-Do list app with a unique "Electric" UI theme. This project goes beyond standard CRUD by implementing complex CSS rendering effects and specific mobile performance optimizations.
 Features:
