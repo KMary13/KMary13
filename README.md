@@ -5,7 +5,7 @@
 
 
 
-💻 *I’m a Trainee Front-End Developer.*
+💻 *I’m a Junior Front-End Developer.*
 
 
 *Writing code has become my favourite thing to do and I enjoy bringing ideas to life in the browser.* 🎉❤️🎉
